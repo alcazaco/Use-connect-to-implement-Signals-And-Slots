@@ -35,9 +35,6 @@ Window {
     }
 
     Image {
-        width: 100
-        height: 24
-
         anchors {
             right: parent.right
             bottom: parent.bottom

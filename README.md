@@ -11,6 +11,7 @@ Once you have Qt and an IDE installed, head over to [Qt Academy](academy.qt.io) 
 Open the `CMakeLists.txt` file in Qt Creator, build and run the project. The application will launch a lumber mill control center where you can start, stop, and control the speed of a saw.
 
 # Resources
+
 If you need additional help, the following resources may be helpful:
 
 - Qt Documentation: https://doc.qt.io
@@ -25,7 +26,7 @@ SPDX-License-Identifier: LicenseRef-Qt-Commercial OR GPL-3.0-only
 Qt and respective logos are trademarks of The Qt Group.
 ```
 
-This course explains how to create a 3D scene, how to import and transform objects, and how to light a scene.
+This example is designed to help you learn how and why Qt works under the hood, enabling you to extend plain C++ and how to implement communication between objects using signals and slots.
 
 ### Terms and Conditions
 
